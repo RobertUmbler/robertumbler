@@ -1,0 +1,10 @@
+I   - Primeiro exercício - instalar node e fazer um hello world
+	status: concluído
+
+II  - hospedar a aplicação node na umbler
+	status: concluído
+
+III -  baixar o mongo, criar um banco mongo na umbler, acessar o banco pelo ROBO 3T, inserir e deletar arquivos
+	status: concluído
+
+IV - 

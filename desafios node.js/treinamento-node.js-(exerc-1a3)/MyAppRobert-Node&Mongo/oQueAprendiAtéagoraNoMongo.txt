@@ -1,0 +1,16 @@
+I   -  CRIAR UM BANCO DE DADOS MONGO NA PLATAFORMA DA UMBLER 
+
+II  -  CONECTAR A PLATAFORMA GRÁFICA PARA MONGODB ROBO 3T COM O BANCO CRIADO NA UMBLER
+
+III -  ENTENDI COMO OS DADOS SÃO INSERIDOS DE FORMA JSON NO MONGO
+
+IV  -  ENTENDI COMO FUNCIONA A HIERARQUIA DO MONGODB: BANCO DE DADOS -> COLEÇÕES -> DOCUMENTOS
+
+V   -  COMANDOS BÁSICOS DO MONGO, COMO: 
+		.db.help () //Lista todos os comandos aplicáveis ao banco de dados
+		.insert({}) //inserir dados na coleção
+		.remove({}) //remover dados da coleção
+		 db.createCollection ({}) // criar coleção
+		
+VI  -  O ROBO 3T GERA UMA ID AUTOMÁTICA PARA OBJETO DO BANCO
+	

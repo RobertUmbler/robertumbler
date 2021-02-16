@@ -1,0 +1,10 @@
+I   - Ao tentar instalar o node no windows 7 ultimate, a versão mais recente que eu consegui foi a 12.13.0
+ 
+II  - O node apresenta declarações simples como por exemplo : { "exemplo" : "value" }. 
+
+III - Usar o node como back-end em aplicações javascript é uma boa por conta da compatibilidade
+
+IV  - CRUDs fáceis. Pontanto, facilmente você consegue adicionar, remover ou manipular alguma informação do banco de dados
+
+
+
